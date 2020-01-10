@@ -1,6 +1,6 @@
-# Password
+# PassWordSaver
 
-Functional and Interactive Program Made with Python.
+## Functional and Interactive Program Made with Python. 
 User must first register an account into the system.
 Afterwards, user can log into their own account.
 User can save the website name, the username and the password for later use.
