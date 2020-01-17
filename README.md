@@ -16,6 +16,7 @@ User must first register an account into the system. <br/>
 Afterwards, user can log into their own account.<br/>
 
 
+<img width="1440" alt="Screen Shot 2020-01-17 at 6 56 03 PM" src="https://user-images.githubusercontent.com/59456972/72653876-0c562200-395b-11ea-8d80-a859a983a4b6.png">
 <img width="1440" alt="Screen Shot 2020-01-17 at 6 51 56 PM" src="https://user-images.githubusercontent.com/59456972/72653800-abc6e500-395a-11ea-982c-be3aac30ed93.png">
 
 
